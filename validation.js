@@ -30,9 +30,7 @@ function validateForm() {
 
     
         Email.send({
-            // Host : "smtp.gmail.com",
-            // Username :"srikant.shubham@science.christuniversity.in" ,
-            // Password : 82128414,
+           
             SecureToken:"8547ce9a-1266-4ae3-b6d3-59940bbd09ac",
            
             To : "srikantshubham.personal@gmail.com",
